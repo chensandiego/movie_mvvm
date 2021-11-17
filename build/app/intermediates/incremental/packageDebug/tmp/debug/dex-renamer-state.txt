@@ -1,4 +1,0 @@
-#Tue Nov 16 13:38:23 CST 2021
-base.0=/Users/chen/Desktop/flutter_movie/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
