@@ -3,9 +3,9 @@ import './screens/movies_screen.dart';
 import './viewModel/movies_list_view_model.dart';
 import 'package:provider/provider.dart';
 
-void main() => runApp(App());
+void main() => runApp(MyApp());
 
-class App extends StatelessWidget {
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
