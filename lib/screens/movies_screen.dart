@@ -16,8 +16,7 @@ class _MovieListPageState extends State<MovieListPage> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    Provider.of<MovieListViewModel>(context, listen: false)
-        .fetchMovies("Spider-man");
+    Provider.of<MovieListViewModel>(context, listen: false).fetchMovies("Thor");
   }
 
   @override
